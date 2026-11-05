@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm local settings
+.idea/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
